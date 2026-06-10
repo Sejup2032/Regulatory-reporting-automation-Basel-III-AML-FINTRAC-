@@ -222,5 +222,5 @@ This project simulates the data infrastructure a compliance or risk data enginee
 
 👩‍💻 Author
 Sejal Patil — Azure Data Engineer
-Mississauga, ON | GitHub | sejalmpatil1@gmail.com
+Mississauga, ON
 Microsoft Certified: Fabric Data Engineer (DP-700) · Databricks Certified: Data Engineer Associate
